@@ -1,0 +1,658 @@
+{
+    "members": [
+        {
+            "name": "고향집",
+            "menu": [
+                "순대국",
+                "순대정식",
+                "순대",
+                "국밥"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.58654635775056,
+            "lng": 127.04991504870432,
+            "score": 0
+        },
+        {
+            "name": "고향미중식당",
+            "menu": [
+                "미리팅",
+                "마라상궈",
+                "꿔바로우",
+                "마파두부"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 10,
+            "lat": 37.58654635775056,
+            "lng": 127.04991504870432,
+            "score": 0
+        },
+        {
+            "name": "전현필식당",
+            "menu": [
+                "스테이크",
+                "알리오 올리오",
+                "파스타",
+                "리조또"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 10,
+            "lat": 37.578073989298396,
+            "lng": 127.04943378896603,
+            "score": 0
+        },
+        {
+            "name": "맘스터치",
+            "menu": [
+                "햄버거"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 1,
+            "lat": 37.583877729654446,
+            "lng": 127.05352654127844,
+            "score": 0
+        },
+        {
+            "name": "치쥬",
+            "menu": [
+                "파니니",
+                "파스타",
+                "리조또",
+                "샐러드",
+                "요거트",
+                "샌드위치"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 10,
+            "lat": 37.583877729654446,
+            "lng": 127.05352654127844,
+            "score": 0
+        },
+        {
+            "name": "미태리",
+            "menu": [
+                "파스타",
+                "피자",
+                "리조또",
+                "볶음밥"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 10,
+            "lat": 37.577932936083826,
+            "lng": 127.057340469789,
+            "score": 0
+        },
+        {
+            "name": "해물알탕전문",
+            "menu": [
+                "해물알탕",
+                "해물동태탕"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 15,
+            "lat": 37.576304482249384,
+            "lng": 127.05805293336066,
+            "score": 0
+        },
+        {
+            "name": "홍능족발",
+            "menu": [
+                "보쌈",
+                "족발",
+                "튀김",
+                "등갈비",
+                "막국수"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.58208915284697,
+            "lng": 127.04482376552471,
+            "score": 0
+        },
+        {
+            "name": "갈비가 맛있는 집",
+            "menu": [
+                "돼지갈비",
+                "삼겹살",
+                "석쇠불고기",
+                "순두부찌개",
+                "김치찌개"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 7,
+            "lat": 37.586141447538,
+            "lng": 127.052121815159,
+            "score": 0
+        },
+        {
+            "name": "돗가비",
+            "menu": [
+                "오꼬노미야키",
+                "짬뽕",
+                "나베",
+                "오뎅탕"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "yes",
+            "spicy": "",
+            "time": 7,
+            "lat": 37.58473482248892,
+            "lng": 127.05098566713232,
+            "score": 0
+        },
+        {
+            "name": "호수갈비",
+            "menu": [
+                "삼겹살",
+                "차돌박이",
+                "목살"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 5,
+            "lat": 37.58493374765344,
+            "lng": 127.05210099769228,
+            "score": 0
+        },
+        {
+            "name": "청정생고기",
+            "menu": [
+                "삼겹살",
+                "항정살",
+                "갈매기살",
+                "갈비살",
+                "등심"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 6,
+            "lat": 37.58131183348649,
+            "lng": 127.05163079525673,
+            "score": 0
+        },
+        {
+            "name": "장수회관",
+            "menu": [
+                "갈매기살",
+                "곱창전골",
+                "돌솥밥",
+                "삼겹살"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 11,
+            "lat": 37.57816940219502,
+            "lng": 127.05822602360709,
+            "score": 0
+        },
+        {
+            "name": "장군집",
+            "menu": [
+                "뽈살",
+                "갈매기살",
+                "막창"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.59107980039704,
+            "lng": 127.05536668110462,
+            "score": 0
+        },
+        {
+            "name": "꾸워봐",
+            "menu": [
+                "이베리코 꽃목살",
+                "이베리코 꽃삼겹",
+                "이베리코 황제살",
+                "이베리코 갈비살",
+                "이베리코 항정살"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.58072608715651,
+            "lng": 127.04405223740751,
+            "score": 0
+        },
+        {
+            "name": "고기하다",
+            "menu": [
+                "목살",
+                "삼겹살",
+                "소갈비살"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.59126393666306,
+            "lng": 127.05571293573567,
+            "score": 0
+        },
+        {
+            "name": "명동이발관",
+            "menu": [
+                "치킨",
+                "닭껍질튀김",
+                "야키소바"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 5,
+            "lat": 37.58482313733667,
+            "lng": 127.05224754762504,
+            "score": 0
+        },
+        {
+            "name": "맘스터치",
+            "menu": [
+                "햄버거"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 10,
+            "lat": 37.58953795669681,
+            "lng": 127.06135139375779,
+            "score": 0
+        },
+        {
+            "name": "삼시세끼 한식뷔페",
+            "menu": [
+                "한식"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "",
+            "time": 8,
+            "lat": 37.588386874861065,
+            "lng": 127.05895970613228,
+            "score": 0
+        },
+        {
+            "name": "일번지숯불대왕갈비",
+            "menu": [
+                "돼지갈비",
+                "삼겹살",
+                "목살",
+                "대패삼겹살"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 8,
+            "lat": 37.5895911003111,
+            "lng": 127.06172877803589,
+            "score": 0
+        },
+        {
+            "name": "놀부만두",
+            "menu": [
+                "만두",
+                "모밀",
+                "우동",
+                "비빔밥"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "no",
+            "time": 8,
+            "lat": 37.589347098112725,
+            "lng": 127.06149605402784,
+            "score": 0
+        },
+        {
+            "name": "크림스치킨",
+            "menu": [
+                "후라이드 치킨",
+                "양념 치킨",
+                "마늘간장 치킨",
+                "파닭 치킨"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "",
+            "time": 8,
+            "lat": 37.58757364239864,
+            "lng": 127.06057802301328,
+            "score": 0
+        },
+        {
+            "name": "반지하돈부리",
+            "menu": [
+                "규동",
+                "사케동",
+                "카레",
+                "가츠동"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 1,
+            "lat": 37.58534606472538,
+            "lng": 127.06087196537358,
+            "score": 0
+        },
+        {
+            "name": "이조감자탕",
+            "menu": [
+                "감자탕",
+                "콩나물 해장국밥",
+                "추어탕",
+                "해장국"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "no",
+            "time": 12,
+            "lat": 37.59047028829339,
+            "lng": 127.06198137374822,
+            "score": 0
+        },
+        {
+            "name": "경발원",
+            "menu": [
+                "자장면",
+                "짬뽕",
+                "탕수육",
+                "깐풍기",
+                "유산슬"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "",
+            "spicy": "",
+            "time": 13,
+            "lat": 37.59043424560184,
+            "lng": 127.06125429457533,
+            "score": 0
+        },
+        {
+            "name": "라구퀸",
+            "menu": [
+                "파스타",
+                "샐러드",
+                "샌드위치"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.59090422472447,
+            "lng": 127.05255701060631,
+            "score": 0
+        },
+        {
+            "name": "굿갓레스토랑",
+            "menu": [
+                "목심",
+                "등심 스테이크",
+                "안심 스테이크",
+                "파스타",
+                "갈비"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.59090422472447,
+            "lng": 127.05255701060631,
+            "score": 0
+        },
+        {
+            "name": "고미소곱창",
+            "menu": [
+                "곱창",
+                "막창",
+                "대창",
+                "양대창"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.58186895080111,
+            "lng": 127.04776603894737,
+            "score": 0
+        },
+        {
+            "name": "고기야미안해",
+            "menu": [
+                "회",
+                "매운탕"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 20,
+            "lat": 37.59222870095108,
+            "lng": 127.05365057721397,
+            "score": 0
+        },
+        {
+            "name": "바다생협",
+            "menu": [
+                "회",
+                "매운탕"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 22,
+            "lat": 37.591711543861365,
+            "lng": 127.05249708384517,
+            "score": 0
+        },
+        {
+            "name": "농푸꼬지기",
+            "menu": [
+                "비빔밥",
+                "콩나물 국밥",
+                "파전"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 15,
+            "lat": 37.58068319845374,
+            "lng": 127.04763414884474,
+            "score": 0
+        },
+        {
+            "name": "마라대학",
+            "menu": [
+                "마라탕",
+                "마라룽샤",
+                "마파두부"
+            ],
+            "door": "back",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 15,
+            "lat": 37.589862466164455,
+            "lng": 127.05721526260773,
+            "score": 0
+        },
+        {
+            "name": "마라성연",
+            "menu": [
+                "마라탕",
+                "마라룽샤",
+                "마파두부"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "yes",
+            "time": 5,
+            "lat": 37.583580598514295,
+            "lng": 127.05307263265792,
+            "score": 0
+        },
+        {
+            "name": "원조소머리국밥",
+            "menu": [
+                "소머리국밥",
+                "순대국",
+                "소양머리국",
+                "양선지 해장국"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "yes",
+            "spicy": "no",
+            "time": 20,
+            "lat": 37.58094705687265,
+            "lng": 127.04453704805219,
+            "score": 0
+        },
+        {
+            "name": "노천파전",
+            "menu": [
+                "떡만두국",
+                "오뎅국수",
+                "꼬막집",
+                "굴전",
+                "홍합탕",
+                "닭볶음탕",
+                "계란탕"
+            ],
+            "door": "back",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "yes",
+            "spicy": "",
+            "time": 15,
+            "lat": 37.58966548404557,
+            "lng": 127.05616453160866,
+            "score": 0
+        },
+        {
+            "name": "해피디쉬클럽",
+            "menu": [
+                "플래터",
+                "파스타",
+                "피자",
+                "샐러드"
+            ],
+            "door": "front",
+            "lightly": "no",
+            "alcohol": "yes",
+            "soup": "no",
+            "spicy": "no",
+            "time": 1,
+            "lat": 37.58332383811826,
+            "lng": 127.05490002561226,
+            "score": 0
+        },
+        {
+            "name": "전농초밥",
+            "menu": [
+                "초밥",
+                "회",
+                "덮밥"
+            ],
+            "door": "front",
+            "lightly": "yes",
+            "alcohol": "no",
+            "soup": "no",
+            "spicy": "no",
+            "time": 15,
+            "lat": 37.57730880173058,
+            "lng": 127.0584373349387,
+            "score": 0
+        },
+        {}
+    ]
+}
