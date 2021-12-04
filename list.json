@@ -802,23 +802,6 @@
             "score": 0
         },
         {
-            "name": "동해루",
-            "menu": [
-                "자장면",
-                "짬뽕",
-                "볶음밥",
-                "탕수육"
-            ],
-            "door": "front",
-            "lightly": "yes",
-            "alcohol": "no",
-            "soup": "",
-            "spicy": "",
-            "time": 5,
-            "address": "서울 동대문구 전농로 237 1층 권사부순대국 시립대점",
-            "score": 0
-        },
-        {
             "name": "이삭토스트",
             "menu": [
                 "토스트"
